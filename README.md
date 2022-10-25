@@ -6,9 +6,9 @@ I am 6+ years experienced Solution Architect / Engineering Lead, proficient in m
 
 Strong technical skills in Fintech, BaaS, SaaS, and PaaS. Experience in system analysis, system design, system architecture, development, testing, and maintenance of web-based applications.
 
-- Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/huzaifa-asif-b6b075159/">
-  <img alt="Huzaifa Asif" width="25px" style="position: relative;
-    top: 6px;" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+- Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/huzaifa-asif-b6b075159/" style="position: relative;
+    top: 6px;">
+  <img alt="Huzaifa Asif" width="25px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
   </a>
 
 
