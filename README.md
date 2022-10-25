@@ -26,6 +26,11 @@ Strong technical skills in Fintech, BaaS, SaaS, and PaaS. Experience in system a
 ![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-red?style=flat&logo=Redis&logoColor=white)
 ![Sql Server](https://img.shields.io/badge/-SQL%20Server-grey?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-ed8e00?style=flat-square&logo=firebase)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-orange?style=flat&logo=rabbitmq&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-f4f4f4?style=flat&logo=apachekafka&logoColor=black)
+
+
 
 
 
@@ -46,7 +51,6 @@ Strong technical skills in Fintech, BaaS, SaaS, and PaaS. Experience in system a
 ![](https://img.shields.io/badge/-Postman-FFFFFF?logo=postman&logoColor=orange&style=flat)
 ![](https://img.shields.io/badge/-Git-white?logo=git&logoColor=red&style=flat)
 ![](https://img.shields.io/badge/-Jira-white?logo=jira&logoColor=blue&style=flat)
-![Firebase](https://img.shields.io/badge/-Firebase-FFA611?style=flat-square&logo=firebase)
 ![Github](http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github)
 
 
