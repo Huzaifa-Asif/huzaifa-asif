@@ -7,22 +7,25 @@
 Strong technical skills in Fintech, BaaS, SaaS, and PaaS. Experience in system analysis, system design, system architecture, development, testing, and maintenance of web-based applications.
 
 - Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/huzaifa-asif-b6b075159/">
-  <img alt="Huzaifa Asif" width="30px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  <img alt="Huzaifa Asif" width="25px" style="position: relative;
+    top: 6px;" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
   </a>
 
 
 
 
 #### Languages
-![](https://img.shields.io/badge/-Node-darkgreen?logo=node.js&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-NestJS-a59d9f?style=flat&logo=nestjs&logoColor=e0234e)
-![](https://img.shields.io/badge/-Express-black?logo=Express&logoColor=white&style=flat)
-![](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)
-![](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=3c3c3c)
-![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=3c3c3c)
-![](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![JQuery](https://img.shields.io/badge/-JQuery-black?style=flat-square&logo=jquery)
+![NodeJs](https://img.shields.io/badge/-Node-darkgreen?logo=node.js&logoColor=white&style=flat)
+![NestJs](https://img.shields.io/badge/-NestJS-a59d9f?style=flat&logo=nestjs&logoColor=e0234e)
+![Express](https://img.shields.io/badge/-Express-grey?logo=Express&logoColor=white&style=flat)
+![Angular](https://img.shields.io/badge/-Angular-939393?style=flat&logo=angular&logoColor=d10404)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=3c3c3c)
+![Javascript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=3c3c3c)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&logoColor=white)
+![Cassandra](https://img.shields.io/badge/-Casandra-FFFFFF?style=flat&logo=ApacheCassandra&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/-MongoDB-grey?style=flat-square&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-red?style=flat&logo=Redis&logoColor=white)
+![Sql Server](https://img.shields.io/badge/-SQL%20Server-grey?style=flat&logo=microsoftsqlserver&logoColor=white)
 
 
 
