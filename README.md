@@ -2,7 +2,7 @@
 
 #### About
 
-I am 6+ years experienced Solution Architect / Engineering Lead, proficient in many platforms and tools, focused on delivering business value through quality software. I am comfortable discussing requirements in the language of the business as I am in leading the technical aspect of sprints. I have led Fintech products of KFH Kuwait, KFH Bahrain, and Simah Saudi Arabia.
+I am 7 years experienced Solution Architect / Engineering Lead, proficient in many platforms and tools, focused on delivering business value through quality software. I am comfortable discussing requirements in the language of the business as I am in leading the technical aspect of sprints. I have led Fintech products of KFH Kuwait, KFH Bahrain, and Simah Saudi Arabia.
 
 Strong technical skills in Fintech, BaaS, SaaS, and PaaS. Experience in system analysis, system design, system architecture, development, testing, and maintenance of web-based applications.
 
