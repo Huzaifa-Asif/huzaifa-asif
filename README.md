@@ -6,6 +6,8 @@ I am 7 years experienced Solution Architect / Engineering Lead, proficient in ma
 
 Strong technical skills in Fintech, BaaS, SaaS, and PaaS. Experience in system analysis, system design, system architecture, development, testing, and maintenance of web-based applications.
 
+#### Github Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=huzaifa-asif&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 #### Languages
 ![NodeJs](https://img.shields.io/badge/-Node-darkgreen?logo=node.js&logoColor=white&style=flat)
