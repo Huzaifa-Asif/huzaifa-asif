@@ -2,9 +2,9 @@
 
 #### About
 
-I am 7 years experienced Solution Architect / Engineering Lead, proficient in many platforms and tools, focused on delivering business value through quality software. I am comfortable discussing requirements in the language of the business as I am in leading the technical aspect of sprints. I have led Fintech products of KFH Kuwait, KFH Bahrain, and Simah Saudi Arabia.
+As a Solution Architect at respond.io, I lead the design and architecture of solutions that meet business requirements and needs. I collaborate with stakeholders to understand business needs and translate them into technical solutions, using AWS cloud services and best practices. I also monitor and optimize cloud infrastructure performance, availability, and cost-efficiency, ensuring scalability and security.
 
-Strong technical skills in Fintech, BaaS, SaaS, and PaaS. Experience in system analysis, system design, system architecture, development, testing, and maintenance of web-based applications.
+I have over four years of experience as a Solution Architect and Engineering Lead, working on fintech, BaaS, SaaS, and PaaS products for clients such as KFH Kuwait, KFH Bahrain, and Simah Saudi Arabia. I have strong technical skills in system analysis, design, development, testing, and maintenance of web-based applications, using various tools and frameworks. I also provide technical guidance and mentorship to development teams, ensuring adherence to quality standards and innovation. I hold a Bachelor's degree in Computer Science from COMSATS University Islamabad and multiple certifications, including AWS Foundations and Redis Data Structures. I am passionate about delivering business value through quality software and sharing my knowledge through my YouTube channel.
 
 #### Languages
 ![NodeJs](https://img.shields.io/badge/-Node-darkgreen?logo=node.js&logoColor=white&style=flat)
