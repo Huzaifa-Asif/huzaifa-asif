@@ -23,13 +23,6 @@ Strong technical skills in Fintech, BaaS, SaaS, and PaaS. Experience in system a
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-f4f4f4?style=flat&logo=apachekafka&logoColor=black)
 
 
-
-
-
-<hr/>
-
-
-
 #### Development
 ![](https://img.shields.io/badge/-Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
@@ -44,5 +37,3 @@ Strong technical skills in Fintech, BaaS, SaaS, and PaaS. Experience in system a
 #### Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=huzaifa-asif&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-
-<hr/>
