@@ -2,9 +2,16 @@
 
 #### About
 
-As a Solution Architect at respond.io, I lead the design and architecture of solutions that meet business requirements and needs. I collaborate with stakeholders to understand business needs and translate them into technical solutions, using AWS cloud services and best practices. I also monitor and optimize cloud infrastructure performance, availability, and cost-efficiency, ensuring scalability and security.
+As a Solution Architect and Engineering Lead with over eight years of experience, I specialize in designing and implementing solutions that align with business goals and industry standards. Currently, I lead the development of cutting-edge products at Evert, a company dedicated to revolutionizing the future power grid with smart technology. Our top-quality products are designed for seamless integration and effortless energy management, simplifying the complexities of modern energy systems.
 
-I have over four years of experience as a Solution Architect and Engineering Lead, working on fintech, BaaS, SaaS, and PaaS products for clients such as KFH Kuwait, KFH Bahrain, and Simah Saudi Arabia. I have strong technical skills in system analysis, design, development, testing, and maintenance of web-based applications, using various tools and frameworks. I also provide technical guidance and mentorship to development teams, ensuring adherence to quality standards and innovation. I hold a Bachelor's degree in Computer Science from COMSATS University Islamabad and multiple certifications, including AWS Foundations and Redis Data Structures. I am passionate about delivering business value through quality software and sharing my knowledge through my YouTube channel.
+In my role at Evert, I focus on architecting scalable and secure solutions that drive innovation and efficiency. I collaborate closely with stakeholders to translate business requirements into technical strategies, leveraging AWS cloud services and best practices to optimize performance. I also mentor and lead a skilled development team, ensuring that our products meet the highest standards of quality and security.
+
+Beyond my work at Evert, I serve as an Advocate at Grafana Labs, where I create educational content, including videos and blogs, to promote Grafana and K6 within the tech community. I engage with open-source communities, offering expert guidance on data visualization and performance testing.
+
+My expertise spans fintech, BaaS, SaaS, and PaaS products for clients such as KFH Kuwait, KFH Bahrain, and Simah Saudi Arabia. I have a strong foundation in system analysis, design, and full-stack development. I hold a Bachelor's degree in Computer Science and have earned certifications in AWS Foundations, Redis Data Structures, and more.
+
+In addition to my professional work, I actively share my knowledge through my YouTube channel, blog posts, and my book, "Designing Scalable Systems". I am passionate about delivering business value through innovative software solutions and empowering others in the tech community.
+
 
 #### Languages
 ![NodeJs](https://img.shields.io/badge/-Node-darkgreen?logo=node.js&logoColor=white&style=flat)
