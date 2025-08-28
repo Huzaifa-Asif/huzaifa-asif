@@ -2,7 +2,7 @@
 
 #### About
 
-As a Solution Architect and Engineering Lead with over eight years of experience, I specialize in designing and implementing solutions that align with business goals and industry standards. Currently, I lead the development of cutting-edge products at Evert, a company dedicated to revolutionizing the future power grid with smart technology. Our top-quality products are designed for seamless integration and effortless energy management, simplifying the complexities of modern energy systems.
+As a Solution Architect and Engineering Lead with over nine years of experience, I specialize in designing and implementing solutions that align with business goals and industry standards. Currently, I lead the development of cutting-edge products at Evert, a company dedicated to revolutionizing the future power grid with smart technology. Our top-quality products are designed for seamless integration and effortless energy management, simplifying the complexities of modern energy systems.
 
 In my role at Evert, I focus on architecting scalable and secure solutions that drive innovation and efficiency. I collaborate closely with stakeholders to translate business requirements into technical strategies, leveraging AWS cloud services and best practices to optimize performance. I also mentor and lead a skilled development team, ensuring that our products meet the highest standards of quality and security.
 
